@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "simuflow-gui",
+  "simuflow-usb-driver"
+]
